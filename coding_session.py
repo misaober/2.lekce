@@ -64,3 +64,5 @@ def is_2019(book):
 
 books = list(filter( lambda book: book["year"] == 2019, books))
 print(books)
+
+# vylepšení
